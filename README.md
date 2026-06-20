@@ -27,3 +27,4 @@ Planning Phase
 - [ ] Motor Testing
 - [ ] Sensor Testing
 - [ ] Obstacle Avoidance Implemented
+ 
