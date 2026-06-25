@@ -29,3 +29,22 @@
 
 ### Notes
 This robot is intended to be the first version of a future robotics platform. Planned future upgrades include Bluetooth control, ESP32 integration, camera vision, and AI-assisted navigation.
+
+## Hardware Arrival
+
+Date: [2026-06-25]
+
+Received:
+- Arduino Nano
+- HC-SR04
+- SG90 Servo
+- L298N
+- 2WD Chassis Kit
+- Jumper Wires
+
+Inspection Result:
+- No visible damage
+- Components accounted for
+
+Status:
+Ready for assembly and testing
