@@ -48,3 +48,20 @@ Inspection Result:
 
 Status:
 Ready for assembly and testing
+
+## Arduino Bring-Up Test
+
+Date: 2026-06-29
+
+Test:
+- Installed FTDI driver 2.08.24
+- Connected Arduino Nano
+- Configured Arduino IDE
+- Uploaded Blink example successfully
+
+Result:
+- Upload successful
+- Onboard LED blinking correctly
+
+Status:
+Arduino Nano verified and operational.
