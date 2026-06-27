@@ -1,0 +1,9 @@
+- [X] Verify all parts arrived
+- [X] Inspect for damage
+- [X] Test Arduino Nano
+- [X] Test HC-SR04
+- [X] Test SG90 Servo
+- [X] Test L298N
+- [X] Test Motors
+- [ ] test TB6612FNG
+- [ ] test 2*16650 batteries
