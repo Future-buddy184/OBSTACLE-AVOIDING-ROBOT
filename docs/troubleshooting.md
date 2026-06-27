@@ -41,10 +41,8 @@ Both BO gear motors were confirmed to be funtional.
 - Driver occasionally worked after power cycling.
 - Manual testing of motor driver inputs produced expected motor direction changes.
 
-### Conclusion
-The issue appeared to originate from the motor driver aqnd/or its ability to supply sufficient power under load.
-
-To improve efficency and reliabilty, the project will be upgraded to a TB6612FNG motir driver.
+### Conclusion 
+Based on repeated testings, the L298N motor driver became the primary suspect. Since motors, Arduino Nano, wiring, and control signals verified independently, the project will continue with a TB6612FNG motor driver for comparision and further testing.
 
 ## Next Steps
 
