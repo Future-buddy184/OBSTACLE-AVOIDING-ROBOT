@@ -77,3 +77,10 @@ Arduino Nano verified and operational.
 - Prepared the motor driver for wiring and testing
 - Verified no short circuits between VM-GND and VCC-GND using a multimeter.
 - Began wiring the TB6612FNG with the Arduino Nano for motor testing.
+
+### TB6612FNG Motor Driver Test
+
+- Connected the TB6612FNG motor driver to the Arduino Nano.
+- Verified correct motor driver operation.
+- Successfully controlled Motor A in both forward and reverse directions using PWM.
+- Confirmed battery power, common ground, and direction control wiring.
